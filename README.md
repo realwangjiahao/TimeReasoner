@@ -8,7 +8,7 @@ We propose **TimeReasoner**, an extensive empirical study that formulates TSF as
 
 Our findings reveal that slow-thinking LLMs exhibit non-trivial zero-shot forecasting capabilities, especially in capturing high-level trends and contextual shifts. While preliminary, our study surfaces important insights into the reasoning behaviors of LLMs in temporal domains highlighting both their potential and limitations. We hope this work catalyzes further research into reasoning-based forecasting paradigms and paves the way toward more interpretable and generalizable TSF frameworks.
 
-![[Pasted image 20250602163551.png]]
+![[fig/motivation.png]]
 
 
 ![[Pasted image 20250602163627.png]]
