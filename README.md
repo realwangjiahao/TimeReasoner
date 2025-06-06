@@ -1,5 +1,6 @@
 # TimeReasoner
 Official implementation of the paper: **Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting**
+🔗 [Paper on arXiv](https://arxiv.org/abs/2505.24511)
 
 
 ## 🌟 Introduction
@@ -17,5 +18,20 @@ Our findings reveal that slow-thinking LLMs exhibit non-trivial zero-shot foreca
 </div>
 
 
+---
+>
+> 🙋 Please let us know if you find out a mistake or have any suggestions!
+> 
+> 🌟 If you find this resource helpful, please consider to star this repository and cite our research:
+```
 
+@misc{wang2025slowthinkingllmsreasontime,
+      title={Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting}, 
+      author={Jiahao Wang and Mingyue Cheng and Qi Liu},
+      year={2025},
+      eprint={2505.24511},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2505.24511}, 
+}
 
