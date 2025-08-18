@@ -10,7 +10,7 @@ Our findings reveal that slow-thinking LLMs exhibit non-trivial zero-shot foreca
 
 ## Motivation
 <div align="center">
-  <img src="fig/motivation.png" width="100%" alt="The Motivation for TimeReasoner"/>
+  <img src="fig/motivation.png" width="50%" alt="The Motivation for TimeReasoner"/>
 </div>
 
 Time series forecasting (TSF) is a cornerstone task in numerous fields, including finance, energy, and healthcare. Its core goal is to predict the future trajectory of a target variable based on historical observations and auxiliary information. While existing methods (ranging from classical statistical models to modern deep learning) have achieved remarkable success, most of them adhere to a "fast-thinking" paradigm, directly mapping inputs to outputs through a single-step inference, lacking intermediate, explicit reasoning steps.
