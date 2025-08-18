@@ -17,7 +17,7 @@ Time series forecasting (TSF) is a cornerstone task in numerous fields, includin
 
 Meanwhile, "slow-thinking" large language models (such as ChatGPT-o1 and DeepSeek-R1) capable of multi-step reasoning have demonstrated impressive performance in various domains. This raises a key question: Can "slow-thinking" large language models effectively reason about temporal patterns to support time series forecasting, even in zero-shot scenarios? To this end, the research team proposed TimeReasoner, which reformulates TSF as a conditional reasoning task and systematically explores the reasoning behavior of LLMs on time series data.
 
-## Framework: TimeReasoner
+## The Proposed TimeReasoner
 
 <div align="center">
   <img src="fig/main.png" width="100%" alt="Main Figure"/>
