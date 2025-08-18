@@ -29,6 +29,12 @@ Our findings reveal that slow-thinking LLMs exhibit non-trivial zero-shot foreca
   <img src="fig/motivation.png" width="100%" alt="The Motivation for TimeReasoner"/>
 </div>
 
+
+
+
+
+
+
 <div align="center">
   <img src="fig/main.png" width="100%" alt="Main Figure"/>
 </div>
