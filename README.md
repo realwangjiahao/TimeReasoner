@@ -19,8 +19,6 @@ Official implementation of the paper: **Can Slow-thinking LLMs Reason Over Time?
 
 
 
-
-
 ## 🌟 Introduction
 
 We propose **TimeReasoner**, an extensive empirical study that formulates TSF as a conditional reasoning task. We design a series of prompting strategies to elicit inference-time reasoning from pretrained slow-thinking LLMs and evaluate their performance across diverse TSF benchmarks.
