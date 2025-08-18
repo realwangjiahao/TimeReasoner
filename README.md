@@ -19,20 +19,6 @@ Our findings reveal that slow-thinking LLMs exhibit non-trivial zero-shot foreca
   <img src="fig/main.png" width="100%" alt="Main Figure"/>
 </div>
 
-## Further Reading
-
-1, [**Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs**](https://arxiv.org/pdf/2506.10630).
-
-**Authors**: Yucong Luo, Yitong Zhou, Mingyue Cheng, Jiahao Wang, Daoyu Wang, Tingyue Pan, Jintao Zhang
-
-```bibtex
-@article{luo2025time,
-  title={Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs},
-  author={Luo, Yucong and Zhou, Yitong and Cheng, Mingyue and Wang, Jiahao and Wang, Daoyu and Pan, Tingyue and Zhang, Jintao},
-  journal={arXiv preprint arXiv:2506.10630},
-  year={2025}
-}
-```
 
 
 
