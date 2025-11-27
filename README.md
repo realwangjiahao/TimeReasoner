@@ -1,3 +1,11 @@
+
+> 👏 The paper is accpeted by WSDM 2025!
+>
+> 🙋 Please let us know if you find out a mistake or have any suggestions!
+> 
+> 🌟 If you find this resource helpful, please consider to star this repository and cite our research
+
+
 # TimeReasoner
 ---
 Official implementation of the paper: **Can Slow-thinking LLMs Reason Over Time: Empirical Studies in Time Series Forecasting**
